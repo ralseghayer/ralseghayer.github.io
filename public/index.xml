@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Rakan A. Alseghayer</title>
+    <link>http://www.alseghayer.com/</link>
+    <description>Recent content in About on Rakan A. Alseghayer</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://www.alseghayer.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://www.alseghayer.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.alseghayer.com/about/</guid>
+      <description>About Me Professionaly, a PhD candidate at the University of Pittsburgh, Department of Computer science. A member of the Advanced Data Management Technologies (ADMT) lab. MS degree in Information Science, with a concentration in Networking and Security from the University of Pittsburgh. BS in Computer Science from King Saud University. On the career side, I worked as a software engineer at AECL for a year, and as a lecturer at King Saud University, CS department for a year.</description>
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>http://www.alseghayer.com/awards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.alseghayer.com/awards/</guid>
+      <description>Awards and Scholarships Student scholarship winner for the cybersecurity event Black Hat &amp;lsquo;22.
+Awarded the Diversity and Inclusion Award at the Ph.D. forum of the 22nd IEEE International Conference on Mobile Data Management (MDM &amp;lsquo;21).
+Awarded the People&amp;rsquo;s Choice of Best Pitch Video at the 22nd IEEE International Conference on Mobile Data Management (MDM &amp;lsquo;21).
+PITT CS Department Orrin E. and Margaret M. Taulbee Award runner-up (2021).
+Student travel grant winner for the 11th International Workshop on Real-Time Business Intelligence &amp;amp; Analytics (BIRTE &amp;lsquo;18).</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.alseghayer.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.alseghayer.com/contact/</guid>
+      <description>Email: ralseghayer@cs.pitt.edu Mailing Address 210 South Bouquet Street
+University of Pittsburgh
+Mail Box 308
+6414 Sennott Square
+Pittsburgh, PA 15260
+USA</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://www.alseghayer.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.alseghayer.com/projects/</guid>
+      <description>Research Projects Spatiotemporal Join processing for Indoors Moving Objects Contact tracing (CT) is a category of analytics that monitors whether two objects have come to close distance of (i.e., intersects with) each other for a certain period of time. Spatiotemporal join operator is essential to such analytics, where two sets of data streams are being checked for intersection in spatial and/or temporal dimension in real-time for trajectory data.
+The nature of the aforementioned analytics category and its application require processing of huge number of users’ trajectories.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://www.alseghayer.com/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.alseghayer.com/publications/</guid>
+      <description>Journal Papers 2019: [1] Alseghayer R., Petrov D., Chrysanthis P.K., Sharaf M., Labrinidis A. &amp;ldquo;DCS: A Policy Framework for the Detection of Correlated Data Streams.&amp;rdquo; [Lecture Notes in Business Information Processing, vol 337. Springer]
+Conference Papers 2022: [1] B. Nixon, R. Alseghayer, C. Costa, B. Graybill, X. Zhang, and P. K. Chrysanthis, “Efficient Detection of COVID-19 Exposure Risk.” [IEEE MDM &amp;lsquo;22].
+2021: [2] Rakan Alseghayer. &amp;ldquo;Racoon: Rapid Contact Tracing of Moving Objects Using Smart Indexes.</description>
+    </item>
+    
+    <item>
+      <title>Service</title>
+      <link>http://www.alseghayer.com/service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.alseghayer.com/service/</guid>
+      <description>Service Diversity and Inclusion (D&amp;amp;I) compliance committee member in The 16th ACM International Conference on Distributed and Event-based Systems (DEBS &amp;lsquo;22).
+Student volunteer in the International Workshop on Self-Managing Database Systems (SMDB &amp;lsquo;21, SMDB &amp;lsquo;22).
+External reviewer in International Conference on Very Large Data Bases (VLDB &amp;lsquo;17, &amp;lsquo;21, &amp;lsquo;22).
+External reviewer in The International Conference on Database Systems for Advanced Applications (DASFAA &amp;lsquo;21).
+External reviewer in The annual IEEE International Conference on Data Engineering (ICDE &amp;lsquo;17, &amp;lsquo;19, &amp;lsquo;20, &amp;lsquo;21).</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://www.alseghayer.com/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.alseghayer.com/teaching/</guid>
+      <description>Lecturing Teaching Assistance Code Course Years CS1555/2055 Database Management Systems [Spring &amp;lsquo;20, Fall &amp;lsquo;20, Spring &amp;lsquo;21, Fall &amp;lsquo;21, Spring &amp;lsquo;22] CS1501 Algorithm Implementation [Fall &amp;lsquo;17, Spring &amp;lsquo;19] CS0011 Introduction to Computing for Scientists [Summer &amp;lsquo;21] Teaching Assistance Code Course Years CS2550 Principles of Database Systems [Spring &amp;lsquo;21, Spring &amp;lsquo;22] CS1645/2045 Introduction to High Performance Computing [Fall &amp;lsquo;15, Fall &amp;lsquo;16] </description>
+    </item>
+    
+  </channel>
+</rss>
