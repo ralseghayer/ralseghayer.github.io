@@ -19,4 +19,4 @@ title = "Contact"
 <span class="tab"></span>Mail Box 308</br>
 <span class="tab"></span>6414 Sennott Square</br>
 <span class="tab"></span>Pittsburgh, PA 15260</br>
-<span class="tab"></span>USA-
+<span class="tab"></span>USA
