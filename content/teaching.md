@@ -16,5 +16,3 @@ Code        | Course                                    | Years
 ------------|-------------------------------------------|-------------------------
 CS2550      | Principles of Database Systems            | [[Spring '21](https://db.cs.pitt.edu/courses/cs2550/21-2/index.html), [Spring '22](https://db.cs.pitt.edu/courses/cs2550/22-2/index.html)]
 CS1645/2045 | Introduction to High Performance Computing| [Fall '15, Fall '16]
-
-

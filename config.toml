@@ -68,48 +68,25 @@ googleAnalytics = ""  # add your tracking id
     weight = 5
 
   [[menu.main]]
+    name = "Reviews"
+    url = "/reviews"
+    weight = 6
+
+  [[menu.main]]
     name = "Awards"
     url = "/awards"
-    weight = 6
+    weight = 7
 
   [[menu.main]]
     name = "Service"
     url = "/service"
-    weight = 7
+    weight = 8
 
   [[menu.main]]
     name = "Contact"
     url = "/contact"
-    weight = 8
+    weight = 9
 
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#---
-
-#Some anonymous reviews from students:
-
-#> "To a great mind, nothing is little" ~ CS1555
-#>
-#> "-----" ~ CS0011
-#>
-#> "fwfwefef23f32f23f3f" ~ CS1555
