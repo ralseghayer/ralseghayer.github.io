@@ -30,6 +30,7 @@ To achieve our first aim, we propose intelligent scheduling of the duty cycles o
 
 To achieve the second aim, we propose the concept of virtual bus lanes, that combines on demand creation of bus lanes in conjunction with dynamic control of traffic lights. Moreover, we propose to guide drivers through less congested routes using bulletin boards that provide them information in real time for such routes. Our methods are anchored to priority scheduling, incremental windowed-based aggregation and shortest path first Dijkstra's algorithm. We evaluate the effectiveness and efficiency of our virtual bus lanes solution with a real dataset from the city of Beijing, China and a twenty four hours traffic scenario from the city of Luxembourg.
 
+---
 
 ## Course Work Projects
 

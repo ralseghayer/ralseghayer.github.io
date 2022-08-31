@@ -8,6 +8,8 @@ title = "Publications"
 
 [1] Alseghayer R., Petrov D., Chrysanthis P.K., Sharaf M., Labrinidis A. ["DCS: A Policy Framework for the Detection of Correlated Data Streams."](/lnbip19.pdf) **[Lecture Notes in Business Information Processing, vol 337. Springer]**
 
+---
+
 ## Conference Papers
 
 * **2022:**

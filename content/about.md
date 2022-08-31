@@ -10,6 +10,7 @@ title = "About"
 
 **Personally**, squash (sport) is my life and passion. Interested in societies and social systems, and how that is related to CS design patterns, system models, etc. 
 
+---
 
 ## Research Interests
 

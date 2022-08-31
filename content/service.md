@@ -23,6 +23,8 @@ title = "Service"
 
 * External reviewer in The ACM/IEEE Conference on Internet of Things Design and Implementation (IoTDI '17).
 
+---
+
 ## Volunteering
 
 * Food distribution for the Greater Pittsburgh Community Food Bank.
