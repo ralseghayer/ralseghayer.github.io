@@ -23,7 +23,7 @@ googleAnalytics = ""  # add your tracking id
   [[params.socialIcons]]
     icon = "fab fa-linkedin"
     title = "LinkedIn"
-    url = "https://www.linkedin.com/in/rakan-alseghayer-90275732/"
+    url = "https://www.linkedin.com/in/rakan-alseghayer"
   [[params.socialIcons]]
     icon = "fa fa-graduation-cap"
     title = "Google Scholar"
