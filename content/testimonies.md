@@ -1,8 +1,8 @@
 +++
-title = "Anonymous Students' Reviews"
+title = "Anonymized Students' Reviews"
 +++
 
-## Selected Anonymous Students' Reviews
+## Selected Anonymized Students' Reviews
 
 > "He is ready to help anytime. He was very patient and explained very clearly. Helped me to understand the material. Answered to all my questions. Very professional!!!" **~CS1555 student**
 
