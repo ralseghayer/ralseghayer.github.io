@@ -14,4 +14,4 @@ title = "About"
 
 ## Research Interests
 
- Data management, data Exploration, spatiotemporal databases, in-memory access methods, timeseries databases, database management systems, data stream management systems, distributed systems, high performance computing (HPC), reliability, and computer (and information) security.
+Data management, data Exploration, spatiotemporal databases, in-memory access methods, timeseries databases, database management systems, distributed systems, data stream management systems, high performance computing (HPC), reliability, and computer (and information) security.
