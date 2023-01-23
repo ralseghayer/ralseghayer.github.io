@@ -14,11 +14,11 @@ title = "Publications"
 
 * **2022:**
 
-[1] B. Nixon, R. Alseghayer, C. Costa, B. Graybill, X. Zhang, and P. K. Chrysanthis, [“Efficient Detection of COVID-19 Exposure Risk.”](/mdm22.pdf) **[IEEE MDM '22]**.
+[1] B. Nixon, R. Alseghayer, C. Costa, B. Graybill, X. Zhang, and P. K. Chrysanthis, “Efficient Detection of COVID-19 Exposure Risk.” **[IEEE MDM '22]** ([PDF](/mdm22.pdf), [VIDEO](https://www.youtube.com/embed/bbieEXN53zw)).
 
 * **2021:**
 
-[2] Rakan Alseghayer. ["Racoon: Rapid Contact Tracing of Moving Objects Using Smart Indexes."](/mdm21.pdf) **[IEEE MDM '21]**
+[2] Rakan Alseghayer. "Racoon: Rapid Contact Tracing of Moving Objects Using Smart Indexes." **[IEEE MDM '21]** ([PDF](/mdm21.pdf), [VIDEO](https://www.youtube.com/embed/S8PnIvr7rBc)).
 
 * **2019:**
 

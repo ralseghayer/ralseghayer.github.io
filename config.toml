@@ -12,7 +12,7 @@ googleAnalytics = ""  # add your tracking id
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
-    text = " Rakan Alseghayer © 2022"
+    text = " Rakan Alseghayer © 2023"
     url = "http://www.alseghayer.com/"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
