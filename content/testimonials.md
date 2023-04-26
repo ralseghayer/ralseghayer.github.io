@@ -12,6 +12,6 @@ title = "Anonymized Testimonials"
 
 > "Rakan is the BEST teaching assistant in Pitt CS. Hands down, he should be teaching lectures for every course." **~[CS1555](https://db.cs.pitt.edu/courses/cs1555/22-2/index.html) student**
 
-> "The greatest teacher I've ever had at Pitt. Please make him a lecturer. He's clear, well–prepared, and does a great job of teaching us the material. I wouldn't have been able to do the homeworks if I had a different TA. Please please please please make him a lecturer, he's so good." **~CS1555 student**
+> "The greatest teacher I've ever had at Pitt. Please make him a lecturer. He's clear, well–prepared, and does a great job of teaching us the material. I wouldn't have been able to do the homeworks if I had a different TA. Please please please please make him a lecturer, he's so good." **~[CS1555](https://db.cs.pitt.edu/courses/cs1555/22-2/index.html) student**
 
 > "Very interactive and engaging. Without a doubt the best TA I've had in the CS department." **~[CS1555](https://db.cs.pitt.edu/courses/cs1555/22-2/index.html) student**
