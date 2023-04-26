@@ -34,6 +34,6 @@ title = "Service"
 
 * Web developer for [NephroTalk Conservative Care Curriculum](http://www.nephro-talk.com).
 
-* Web developer for the [Pittsburgh Squash Federation](http://www.pitt-squash-fed.github.io).
+* Webmaster for the [Pittsburgh Squash Federation] website(https://pitt-squash-fed.github.io).
 
 * IT support for [MusiCare Connections](https://www.youtube.com/channel/UCJu-F017ZaUUWWqbj_xvCGQ).
