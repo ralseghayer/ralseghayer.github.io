@@ -4,10 +4,13 @@ title = "Service"
 
 ## Service
 
+* Grand Awards Judge at the [Regeneron International Science and Engineering Fair (ISEF) 2023](https://www.societyforscience.org/isef/) in the Embeded Systems category.
+
+* Website management and online arrangements in the International Workshop on Self-Managing Database Systems [(SMDB '23](https://db.cs.pitt.edu/smdb2023/).
+
 * Diversity and Inclusion (D&I) compliance committee member in The 16th ACM International Conference on Distributed and Event-based Systems [(DEBS '22)](https://2022.debs.org/di-pc/).
 
 * Student volunteer in the International Workshop on Self-Managing Database Systems [(SMDB '21](https://db.cs.pitt.edu/smdb2021), [SMDB '22)](https://db.cs.pitt.edu/smdb2022).
-
 
 * External reviewer in International Conference on Very Large Data Bases (VLDB '17, '21, '22).
 
