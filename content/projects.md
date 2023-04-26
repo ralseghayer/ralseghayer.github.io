@@ -30,34 +30,34 @@ IoT has been enabling solutions for problems in the connected environment that i
 
 ## Course Work Projects
 
-* **Simulator for a modified PowerPc 604 and 620 Architectures**
+* **[Done in Java] -- Simulator for a modified PowerPc 604 and 620 Architectures**
 
  The goal was to design, implement, and evaluate the performance of a dynamically scheduled processor. Thus, we implemented the simulator using Tomasulo algorithm with renaming registers and reordering buffers. Also, we did implement a dynamic branch prediction using a target buffer.
 
-* **Simulators for cache coherence protocols (MSI, MESI) in CMPs**
+* **[Done in Java] -- Simulators for cache coherence protocols (MSI, MESI) in CMPs**
 
 The goal was to build a CMP with dynamically configured cores, and each core has its own L1 private cache, and they all share a unified L2 cache. The protocols are writing back with invalidation. We implemented the simulator and evaluated the performance of each protocol. 
 
-* **Simple Remote Procedure Call System**
+* **[Done in Java] -- Simple Remote Procedure Call System**
 
 In this project, we were asked to design, implement, and evaluate the performance of a sRPC system. We implemented a client, server, and a port-mapper. We addressed issues related to parameter passing, binding, exception handling, call semantics, performance and data representation. We achieved server high availability and load balancing through replication and name resolution respectively. 
 
-* **MiniGoogle: Document Indexing and Querying**
+* **[Done in Java] -- MiniGoogle: Document Indexing and Querying**
 
 The main objective of this project is to design and implement a basic data-intensive application to index and search large documents. More specifically, the goal is to design a simple search engine, referred to as tiny-Google, to retrieve documents relevant to simple search queries submitted by users. We did implement a replicated and reliable client/server model that consists of: the client, the server (has the indexing and querying masters), the helpers (for the mapping and reducing), and the name-server (for the name resolution).
 
-* **Simplified File Transfer Protocol System**
+* **[Done in Java] -- Simplified File Transfer Protocol System**
 
 The purpose of a file transfer protocol is to enable the transfer of files between machines, typically under the command of a user. Several issues need to be addressed in the design of a file transfer protocol, including dealing with differences in file name conventions, text and data representation, and directory structure. Furthermore, the protocol must ensure reliable transfer of files from one system to another. We did implement the system in a layered fashion with a replicated and load balanced servers and name-servers. Also, we did implement an error simulation module to introduce unreliability to the medium. We used the Go-Back-N as a sliding window protocol. Consequently, we did conduct a thorough analysis of the performance of the system with multiple experiments. Those involved different packet error rates, different packet drop rates, and different retransmission timeouts. 
 
-* **myTRC: my Transactional Row Column store DBMS**
+* **[Done in Java] -- myTRC: my Transactional Row Column store DBMS**
 
 The objective of the project is to develop the Transactional Row Column store myTRC that efficiently supports concurrent execution of OLTP (i.e., transactions) and OLAP (i.e., aggregate queries) workloads. myTRC provides limited transactional support. Limited support means that it does not support full durability. In addition to serializable and atomic access, it also provides the standard uncontrolled access to files.
 
-* **Checkers Solver**
+* **[Done in Python] -- Checkers Solver**
 
 Developed a Checkers solver model that competed against my classmates’ engines. The engine was developed using minimax algorithm with alpha beta pruning, and some cutoff techniques using some common heuristics, as well as some of my own developed heuristics, I was able to win the tournament of my class. 
 
-* **PASTRI: PAirwise STream CoRrelation Identifier (only Time series no data streams)**
+* **[Done in Java] -- PASTRI: PAirwise STream CoRrelation Identifier (only Time series no data streams)**
 
 Developed a system that aims at finding accurate results of correlations between pairs of time series in real-time. By doing this, we minimize the time to the first produced results - i.e. achieve interactive response of the system and keeps refining the results, while the user is busy, exploring a subset of the provided results. Our approach modeled the length of each time series, which is of interest, and used a utility cost function, to identify the highly correlated streams. Our experiments show a speedup of 10 times producing the first results, compared to other systems. 
