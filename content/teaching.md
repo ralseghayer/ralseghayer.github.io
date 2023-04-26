@@ -16,5 +16,4 @@ title = "Teaching"
 |-------------|-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
 | CS2550      | Principles of Database Systems            | [[Spring '21](https://db.cs.pitt.edu/courses/cs2550/21-2/index.html), [Spring '22](https://db.cs.pitt.edu/courses/cs2550/22-2/index.html), Spring '23 (Canvas)] |
 | CS1555/2055 | Database Management Systems               | [[Spring '23 (Canvas)]  
-|
-| CS1645/2045 | Introduction to High Performance Computing| [Fall '15, Fall '16]                                                                                                                       |
+| CS1645/2045 | Introduction to High Performance Computing| [Fall '15, Fall '16]
