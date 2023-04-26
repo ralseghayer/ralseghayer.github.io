@@ -1,10 +1,10 @@
 +++
-title = "Anonymized Students' Reviews"
+title = "Anonymized Testimonials"
 +++
 
-## Selected Anonymized Students' Reviews
+## Selected Testimonials
 
-> "He is ready to help anytime. He was very patient and explained very clearly. Helped me to understand the material. Answered to all my questions. Very professional!!!" **~CS1555 student**
+> "He is ready to help anytime. He was very patient and explained very clearly. Helped me to understand the material. Answered to all my questions. Very professional!!!" **~[CS1555(https://db.cs.pitt.edu/courses/cs1555/22-2/index.html)] student**
 
 > "Took the time to show us actual SQL code and run it to show what it does. He was always such a pleasant person to be around and would do all that he could to help. If he taught any classes, I would take them with him, because he explains things very clearly. He is likely the reason why I understood what I did in the class." **~CS1555 student**
 
