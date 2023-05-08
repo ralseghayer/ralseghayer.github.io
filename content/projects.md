@@ -4,7 +4,7 @@ title = "Projects"
 
 ## Research Projects
 
-* **Spatiotemporal Join processing for Indoors Moving Objects**
+* **[Done in C++] -- Spatiotemporal Join processing for Indoors Moving Objects**
 
 Contact tracing (CT) is a category of analytics that monitors whether two objects have come to close distance of (i.e., intersects with) each other for a certain period of time. Spatiotemporal join operator is essential to such analytics, where two sets of data streams are being checked for intersection in spatial and/or temporal dimension in real-time for trajectory data. 
 
@@ -12,7 +12,7 @@ The nature of the aforementioned analytics category and its application require 
 
 This work approaches the above problem by devising efficient processing schemes of such spatiotemporal joins in an energy consumption aware approach due to the typical battery restrictions of mobile devices, while protecting users' privacy.
 
-* **DCS: Detection of Correlated Streams**
+* **[Done in C++] -- DCS: Detection of Correlated Streams**
 
 The DCS framework detects correlations in pairs of data streams and timeseries by employing caching concepts, scheduling techniques, and enforcing policies to navigate the exploration task space efficiently.
 
@@ -22,7 +22,7 @@ An important indicator for finding such patterns is to find the correlation betw
 
 In this research, we try to optimize the task of detecting correlation between data streams and timeseries. We do this through employing scheduling techniques, such that the exploration task is more efficient and more insightful. The three angles of this research are the use of (1) incremental sliding-window computation of aggregates, to avoid unnecessary re-computations, (2) intelligent scheduling of computation steps and operations, driven by a utility function, and (3) an exploration policy that tunes the utility function based on some observed data insights.
 
-* **Environmentally Aware Urban Analytics**
+* **[Done in Java] -- Environmentally Aware Urban Analytics**
 
 IoT has been enabling solutions for problems in the connected environment that is surrounding us (i.e., smart homes and smart cities), but only recently, the use of sensors and IoT has been proposed to address issues related to energy efficiency. In this project, we aim at reducing energy consumption and reducing atmospheric pollution. To achieve that, data processing and decision-making need to be carried out at the network edge, specifically as close to the physical system as possible, where data is generated and used. This facilitates processing and generating results in real-time and make sure the data is not exposed to privacy and security risks. In this project, we leverage scheduling principles and statistical techniques in the context of two applications, namely aiming to reduce duty cycle of HVAC systems in smart homes and to mitigate road congestion in a smart cities. The first aim is approached through leveraging intelligent scheduling of the HVAC systems duty cycles in residential buildings. The second aim is achieved by introducing the concept of virtual bus lanes, that combines on demand creation of bus lanes in conjunction with dynamic control of traffic lights.
 
