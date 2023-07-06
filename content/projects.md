@@ -24,7 +24,7 @@ In this project, our goal is to reduce energy consumption and reduce atmospheric
 
 We implemented a client, server, and a port-mapper components of an RPC system. We addressed issues related to parameter passing, binding, exception handling, call semantics, performance and data representation. We achieved server high availability and load balancing through replication and name resolution respectively.
 
-* **[Done in Java] -- Distributed Systems -- MiniGoogle: Document Indexing and Querying**
+* **[Java] -- Distributed Systems -- MiniGoogle: Document Indexing and Querying**
 
 We implemented a basic data-intensive application to index and search large documents. The goal is to design a simple search engine, referred to as tiny-Google, to retrieve documents relevant to simple search queries submitted by users. We did implement a replicated and reliable client/server model that consists of: the client, the server (has the indexing and querying masters), the helpers (for the mapping and reducing), and the name-server (for name resolution).
 
@@ -34,7 +34,7 @@ We implemented a basic data-intensive application to index and search large docu
 The purpose of a file transfer protocol is to enable the transfer of files between machines, typically under the command of a user. We addressed several issues in the design including dealing with differences in file name conventions, text and data representation, and directory structure. Furthermore, the protocol ensured reliable transfer of files from one system to another. We did implement the system in a layered fashion with a replicated and load balanced servers and name-servers. Also, we did implement an error simulation module to introduce unreliability to the medium. We used the Go-Back-N as a sliding window protocol. Consequently, we did conduct a thorough analysis of the performance of the system with multiple experiments. Those involved different packet error rates, different packet drop rates, and different re-transmission timeouts.
 
 
-* **[Done in Java] -- MiniGoogle: Document Indexing and Querying**
+* **[Java] -- MiniGoogle: Document Indexing and Querying**
 
 The main objective of this project is to design and implement a basic data-intensive application to index and search large documents. More specifically, the goal is to design a simple search engine, referred to as tiny-Google, to retrieve documents relevant to simple search queries submitted by users. We did implement a replicated and reliable client/server model that consists of: the client, the server (has the indexing and querying masters), the helpers (for the mapping and reducing), and the name-server (for the name resolution).
 
