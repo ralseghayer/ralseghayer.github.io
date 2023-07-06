@@ -4,11 +4,11 @@ title = "Projects"
 
 ## Research Projects
 
-* **[C++11] -- Spatiotemporal Join processing for Indoors Moving Objects**
+* **[C++11] -- Temporal Aggregation of Indoors Spatiotemporal Joins**
 
 In this project, we develop a distributed framework for detecting indoor contacts between two individuals and measuring the individual risk of infection for respiratory transmitted diseases (e.g., COVID-19). The framework carries out the queries locally on the individual users’ devices to protect their privacy, achieve scalability, and reduce energy consumption at their devices. Furthermore, we developed a novel in-memory structure, named (e-Racoon), that optimizes temporal aggregation joins for trajectories. The e-Racoon structure enables efficient trajectory joins with the duration of contacts cumulatively between an individual and a single other individual, while considering the exposure across other users.
 
-* **[C++11] -- DCS: Detection of Correlated Streams**
+* **[C++11] -- Detection of Correlated Temporal Streams**
 
 In this project, we develop a real-time monitoring framework of large volumes of data streams that are produced at high velocity. Typically, pairs of most recently arrived data streams need to be correlated within a specified delay target in order for their analysis to lead to actionable results. We address this need by: (i) segmenting data streams into micro-batches; and (ii) leveraging incremental sliding window computation, priority scheduling, and caching techniques, to avoid unnecessary re-computations and I/O. Furthermore, we devise and evaluate exploration strategies that effectively steer the processing of data stream correlations based on the monitoring objective.
 
