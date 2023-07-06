@@ -33,11 +33,6 @@ We implemented a basic data-intensive application to index and search large docu
 
 The purpose of a file transfer protocol is to enable the transfer of files between machines, typically under the command of a user. We addressed several issues in the design including dealing with differences in file name conventions, text and data representation, and directory structure. Furthermore, the protocol ensured reliable transfer of files from one system to another. We did implement the system in a layered fashion with a replicated and load balanced servers and name-servers. Also, we did implement an error simulation module to introduce unreliability to the medium. We used the Go-Back-N as a sliding window protocol. Consequently, we did conduct a thorough analysis of the performance of the system with multiple experiments. Those involved different packet error rates, different packet drop rates, and different re-transmission timeouts.
 
-
-* **[Java] -- MiniGoogle: Document Indexing and Querying**
-
-The main objective of this project is to design and implement a basic data-intensive application to index and search large documents. More specifically, the goal is to design a simple search engine, referred to as tiny-Google, to retrieve documents relevant to simple search queries submitted by users. We did implement a replicated and reliable client/server model that consists of: the client, the server (has the indexing and querying masters), the helpers (for the mapping and reducing), and the name-server (for the name resolution).
-
 * **[JAVA] Principles of DBMSs -- myTRC: my Transactional Row Column store DBMS**
 
 The objective of the project is to develop a Transactional Row Column store (myTRC) that efficiently supports concurrent execution of OLTP (i.e., transactions) and OLAP (i.e., aggregate queries) workloads. myTRC provides limited transactional support. Limited support means that it does not support full durability. In addition to serializable and atomic access, it also provides the standard uncontrolled access to files.
