@@ -12,6 +12,11 @@ title = "Publications"
 
 ## Conference Papers
 
+* **2023:**
+
+R. Alseghayer, P. K. Chrysanthis, and C. Costa, “Duration Constrained Temporal Aggregation Query Processing for Contact Tracing in Indoors Spaces.” **[Submitted!]** ([PDF](), [VIDEO]()).
+
+
 * **2022:**
 
 [1] B. Nixon, R. Alseghayer, C. Costa, B. Graybill, X. Zhang, and P. K. Chrysanthis, “Efficient Detection of COVID-19 Exposure Risk.” **[IEEE MDM '22]** ([PDF](/mdm22.pdf), [VIDEO](https://www.youtube.com/embed/bbieEXN53zw)).
