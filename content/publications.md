@@ -23,7 +23,7 @@ R. Alseghayer, P. K. Chrysanthis, and C. Costa, “Duration Constrained Temporal
 
 * **2021:**
 
-[2] Rakan Alseghayer. "Racoon: Rapid Contact Tracing of Moving Objects Using Smart Indexes." **[IEEE MDM '21]** ([PDF](/mdm21.pdf), [VIDEO](https://www.youtube.com/embed/S8PnIvr7rBc)).
+[2] Rakan Alseghayer. "Racoon: Rapid Contact Tracing of Moving Objects Using Smart Indexes." **[IEEE MDM '21]** ([PDF](/mdm21.pdf), [VIDEO](https://www.youtube.com/embed/S8PnIvr7rBc), [PITCH VIDEO](https://www.youtube.com/embed/oIzLHBaAxmA)).
 
 * **2019:**
 
