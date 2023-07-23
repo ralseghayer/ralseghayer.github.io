@@ -23,7 +23,7 @@ R. Alseghayer, P. K. Chrysanthis, and C. Costa, “Duration Constrained Temporal
 
 * **2021:**
 
-[2] Rakan Alseghayer. "Racoon: Rapid Contact Tracing of Moving Objects Using Smart Indexes." **[IEEE MDM '21]** ([PDF](/mdm21.pdf), [VIDEO](https://www.youtube.com/embed/S8PnIvr7rBc), [PITCH VIDEO](https://www.youtube.com/embed/oIzLHBaAxmA)).
+[2] **-PRESENTED-** Rakan Alseghayer. "Racoon: Rapid Contact Tracing of Moving Objects Using Smart Indexes." **[IEEE MDM '21]** ([PDF](/mdm21.pdf), [VIDEO](https://www.youtube.com/embed/S8PnIvr7rBc), [PITCH VIDEO](https://www.youtube.com/embed/oIzLHBaAxmA)).
 
 * **2019:**
 
@@ -31,16 +31,16 @@ R. Alseghayer, P. K. Chrysanthis, and C. Costa, “Duration Constrained Temporal
 
 [4] D. Petrov, R. Alseghayer, P. K. Chrysanthis. "Mitigating Congestion Using Environment Protective Dynamic Traffic Orchestration." **[MDASC '19 - Colocated with MDM '19]** ([PDF](/mdasc19.pdf)).
 
-[5] -PRESENTED- Rakan Alseghayer, Panos K. Chrysanthis, Bruce R. Childers. "Reproducibility Score for Computational Artifacts." **[MWS '19]** ([PDF](/mws19.pdf)).
+[5] **-PRESENTED-** Rakan Alseghayer, Panos K. Chrysanthis, Bruce R. Childers. "Reproducibility Score for Computational Artifacts." **[MWS '19]** ([PDF](/mws19.pdf)).
 
 * **2018:**
 
 [6] Daniel Petrov, Rakan Alseghayer, Daniel Mosse, Panos K. Chrysanthis. "Data-Driven User-Aware HVAC Scheduling." **[IGSC '18]** ([PDF](/igsc18.pdf)).
 
-[7] Rakan Alseghayer, Daniel Petrov, Panos K. Chrysanthis. "Strategies for Detection of Correlated Data Streams." **[ExploreDB ‘18 - Colocated with ACM SIGMOD '18]** ([PDF](/exploredb18.pdf)).
+[7] **-PRESENTED-** Rakan Alseghayer, Daniel Petrov, Panos K. Chrysanthis. "Strategies for Detection of Correlated Data Streams." **[ExploreDB ‘18 - Colocated with ACM SIGMOD '18]** ([PDF](/exploredb18.pdf)).
 
 * **2017:**
 
 [8] R. Alseghayer, D. Petrov, P. K. Chrysanthis, M. Sharaf, A. Labrinidis. "Detection of Highly Correlated Live Data Streams." **[BIRTE '17 - Colocated with VLDB '17]** ([PDF](/birte17.pdf)).
 
-[9] D. Petrov, R. Alseghayer, M. Sharaf, P. K. Chrysanthis, A. Labrinidis. "Interactive Exploration of Correlated Time Series." **[ExploreDB '17 - Colocated with ACM SIGMOD '17]** ([PDF](/exploredb17.pdf)).
+[9] **-PRESENTED-** D. Petrov, R. Alseghayer, M. Sharaf, P. K. Chrysanthis, A. Labrinidis. "Interactive Exploration of Correlated Time Series." **[ExploreDB '17 - Colocated with ACM SIGMOD '17]** ([PDF](/exploredb17.pdf)).
